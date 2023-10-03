@@ -52,7 +52,7 @@ public class Policy
    }
    
    public void setAge(int age)   // Set age
-   {
+   {   
       this.age = age;
    }
    
@@ -60,17 +60,14 @@ public class Policy
    {
       return age;
    }
-   
    public void setHeight(double height)   // Set height
    {
       this.height = height;
    }
-   
    public double getHeight()  // Get height
    {
       return height;
    }
-   
    public void setWeight(double weight)   // Set weight
    {
       this.weight = weight;
