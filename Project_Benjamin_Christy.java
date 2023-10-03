@@ -8,12 +8,11 @@ public class Project_Benjamin_Christy
       
       Policy userPolicy;
       
+      //Declare variables
       int policyNumber;
       int age;
-      
       double weight;
       double height;
-      
       String providerName;
       String firstName;
       String lastName;
